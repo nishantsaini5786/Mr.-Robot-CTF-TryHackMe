@@ -119,6 +119,12 @@ nmap  ·  gobuster / ffuf  ·  hydra  ·  john  ·  nc  ·  python pty
 <img width="1920" height="1080" alt="Screenshot_2026-09-22_23_11_04" src="https://github.com/user-attachments/assets/f6b7875a-8597-4746-afb9-209eed0a3ffc" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-22_23_11_20" src="https://github.com/user-attachments/assets/743b1312-47d8-4dfe-aebb-38e97883d9e2" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-22_23_21_46" src="https://github.com/user-attachments/assets/b05cfd68-54d5-487c-bf46-432aca31debb" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-22_23_26_27" src="https://github.com/user-attachments/assets/d7328a24-f774-412e-a254-4a30d27b7112" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-22_23_27_26" src="https://github.com/user-attachments/assets/9b06001a-4c80-454a-9926-2cac9c30c61d" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-22_23_29_39" src="https://github.com/user-attachments/assets/82d7497b-15a1-4123-9f1d-cdd65ccfadfd" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-22_23_29_53" src="https://github.com/user-attachments/assets/985a4f73-9fbd-4e76-af17-d6f89d77f080" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-22_23_30_12" src="https://github.com/user-attachments/assets/9d3ccbf9-44db-4adc-b9a9-86e15c3a1510" />
+
 
 ---
 
